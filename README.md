@@ -8,9 +8,10 @@ curl get meme-template-api.herokuapp.com/getall
 
 To get specific meme templates -
 ```txt
-curl get meme-template-api.herokuapp.com/getone/<meme name>
+curl get meme-template-api.herokuapp.com/getone/<meme_name>
 ```
 
+Sample Response - 
 ```jsonc
 [
   {
